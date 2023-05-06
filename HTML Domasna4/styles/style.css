@@ -1,0 +1,76 @@
+
+h5 {
+    box-sizing: border-box;
+    border-style: double solid solid solid;
+    width: 350px;
+    margin: auto;
+    background-color: aqua;
+    font-size: xx-large;
+    text-align: center;
+    border-width: 3px 7px 7px 3px;
+    border-color: lightblue yellow lightskyblue blue;
+    padding: 19px;
+}
+
+.Box {
+    box-sizing: border-box;
+    border-style: dotted;
+    border-color: lightgreen;
+    width: fit-content;
+    padding: 10px;  
+    float: left;
+    margin-left: 100px;
+    
+}
+
+#one {
+    margin-top: 90px;
+}
+
+#two {
+    margin-top: 70px;
+    margin-left: 170px;
+}
+
+#three {
+    margin-top: 90px;
+    margin-left: 170px;
+}
+
+.flex-container {
+display: flex;
+flex-direction: row;
+box-sizing: border-box;
+font-size: xx-large;
+color: white;
+font-weight: bold;
+margin-top: 400px;
+margin-left: 350px;
+}
+
+span{
+    background-color: green;
+}
+
+#five {
+    border-style: dotted;
+    padding: 20px;
+    border-color: black;
+    
+}
+
+#six {
+    outline-style: dotted;
+    outline-color: black;
+    padding: 20px;
+    background-color: green;
+    margin-left: 100px;
+}
+
+#seven {
+    border-style: dotted;
+    padding: 20px;
+    background-color: green;
+    border-color: black;
+    margin-left: 100px;
+}
